@@ -16,7 +16,7 @@ The data can be found in the [City of Madrid's Open Data Portal](https://datos.m
 
 A description of the data and monitoring methodology can be found in [here](https://datos.madrid.es/FWProjects/egob/Catalogo/MedioAmbiente/Aire/Ficheros/Interprete_ficheros_%20calidad_%20del_%20aire_global.pdf).
 
-The database with information about the monitoring stations is also included.
+The database with information about the monitoring stations can be found [here](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=9e42c176313eb410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default).
 
 ### Air quality data description
 
