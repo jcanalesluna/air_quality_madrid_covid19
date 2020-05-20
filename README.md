@@ -6,7 +6,9 @@ The first case of COVID-19 in Spain was confirmed on 31st January 2020. However,
 
 This scenario has led to significant decreases in air pollution in Madrid, which can be attributed to a slowdown in economic and urban activity in response to the COVID-19 pandemic.
 
-The conducted analysis has been published (in Spanish) in [Agenda Pública](http://agendapublica.elpais.com/la-calidad-del-aire-en-madrid-en-tiempos-del-coronavirus/).
+The conducted analysis has been published (in Spanish) in [Agenda Pública](http://agendapublica.elpais.com/la-calidad-del-aire-en-madrid-en-tiempos-del-coronavirus/). 
+
+Besides the analysis (air_quality_madrid_covid19.ipynb), a second notebook has been added containing the preprocessing steps to prepare Madrid air quality data for analysis. The code is aimed to help anyone interested in using Madrid air quality data. An article explaining the code can be found in [Medium](https://medium.com/analytics-vidhya/preparing-madrid-air-quality-data-for-analysis-8820389a78ad). 
 
 ### Datasets Description
 
